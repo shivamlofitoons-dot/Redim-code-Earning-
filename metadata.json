@@ -1,0 +1,6 @@
+{
+  "name": "Fun Earning App",
+  "description": "A production-ready rewards platform featuring user tasks, wallet system, dynamic check-in, lucky spin, and redeem center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
